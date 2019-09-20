@@ -1,0 +1,11 @@
+<resources>
+
+    <string-array name="prizes_list">
+        <item>\t\tWinner\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t₹12000</item>
+        <item>\t\tSecond Place\t\t\t\t\t\t\t\t\t₹8000</item>
+        <item>\t\tThird Place\t\t\t\t\t\t\t\t\t\t\t₹5000</item>
+        <item>\t\tBest UI/UX\t\t\t\t\t\t\t\t\t\t\t\t₹2500</item>
+        <item>\t\tInnovative Idea\t\t\t\t\t\t\t₹2500</item>
+
+    </string-array>
+</resources>

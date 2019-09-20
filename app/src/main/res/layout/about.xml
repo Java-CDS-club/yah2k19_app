@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#48494a">
+
+    <TextView
+        android:id="@+id/head"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/para"
+        android:layout_centerHorizontal="true"
+
+        android:text="About YAH! 2K19"
+        android:textColor="#ffffff"
+        android:textSize="35sp" />
+
+    <TextView
+
+        android:id="@+id/para"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_centerInParent="true"
+        android:layout_margin="40dp"
+        android:text="Yet Another Hackathon! (YAH!) is a 24 hour hackathon where the brightest minds and innovative souls come together to create solutions to real problems. Held at Cove, Kotturpuram and conducted by the SVCE ACM Student Chapter, this year we aim to be bigger and better than ever."
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:textSize="15dp" />
+
+</RelativeLayout>

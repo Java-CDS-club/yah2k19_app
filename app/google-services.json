@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "784124867145",
+    "firebase_url": "https://yah2k19app-master.firebaseio.com",
+    "project_id": "yah2k19app-master",
+    "storage_bucket": "yah2k19app-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784124867145:android:e82013069e652ee5ff8598",
+        "android_client_info": {
+          "package_name": "com.example.bottomnavacm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784124867145-sso76b7iu5acd7tp5bm8el940aabkpmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bottomnavacm",
+            "certificate_hash": "c34eff50999f64bf293815f94e13dfe620d5f370"
+          }
+        },
+        {
+          "client_id": "784124867145-o962tff2trlgdv02r2a2bevedb9be157.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH2mNFBMkuXgVEz-l7i5uySXtaxG1qtsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784124867145-o962tff2trlgdv02r2a2bevedb9be157.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

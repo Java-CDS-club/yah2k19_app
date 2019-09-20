@@ -1,0 +1,30 @@
+<resources>
+
+    <string-array name="agenda_list">
+        <item>05.00 PM\t\t\t\t\t\t      Registration</item>
+        <item>08.00 PM\t\t\t\t\t\t       ACM 10 Years Celebration</item>
+        <item>09.00 PM\t\t\t\t\t\t       Hack Orientation</item>
+        <item>09.30 PM\t\t\t\t\t\t       Hack Starts</item>
+        <item>11.30 PM\t\t\t\t\t\t       Intruder</item>
+        <item>02.00 AM\t\t\t\t\t\t       Snacks and Technical Inspection</item>
+        <item>03.00 AM\t\t\t\t\t\t       Nap Time</item>
+        <item>08.00 AM\t\t\t\t\t\t       Breakfast</item>
+        <item>11.00 AM\t\t\t\t\t\t       Kubernetes Session</item>
+        <item>12.00 AM\t\t\t\t\t\t       Session on Github</item>
+        <item>03.10 PM\t\t\t\t\t\t       Lunch</item>
+        <item>04.00 PM\t\t\t\t\t\t       Technical Inspection</item>
+        <item>06.30 PM\t\t\t\t\t\t       Elimination Result</item>
+        <item>07.00 PM\t\t\t\t\t\t       Head Scratcher</item>
+        <item>09.00 PM\t\t\t\t\t\t       Dinner</item>
+        <item>11.00 PM\t\t\t\t\t\t       Hack Battles</item>
+        <item>02.00 AM\t\t\t\t\t\t       Late Night Snack</item>
+        <item>02.00 AM\t\t\t\t\t\t       Nap Time</item>
+        <item>08.00 AM\t\t\t\t\t\t       Breakfast</item>
+        <item>09.30 AM\t\t\t\t\t\t       Hack Ends</item>
+        <item>10.30 AM\t\t\t\t\t\t       Expo(Judging)</item>
+        <item>12.30 PM\t\t\t\t\t\t       Experience Sharing</item>
+        <item>01.30 PM\t\t\t\t\t\t       Results</item>
+        <item>02.00 PM\t\t\t\t\t\t       Closing Ceremony</item>
+
+    </string-array>
+</resources>
